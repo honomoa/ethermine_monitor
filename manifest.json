@@ -1,0 +1,13 @@
+{
+  "domain": "ethermine_monitor",
+  "name": "Ethermine Monitor",
+  "version": "0.0.1",
+  "documentation": "https://github.com/honomoa/ethermine_monitor",
+  "issue_tracker": "https://github.com/honomoa/ethermine_monitor/issues",
+  "dependencies": [],
+  "codeowners": [
+    "@honomoa"
+  ],
+  "requirements": [],
+  "iot_class": "local_polling"
+}
